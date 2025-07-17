@@ -123,9 +123,9 @@ architecture. I love building scalable systems that can handle millions of reque
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaganov-Konstantin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaganov-Konstantin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
