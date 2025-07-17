@@ -1,6 +1,6 @@
-<div align="right">
+<div align="center">
 
-[![English Version](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=google-translate&logoColor=white)](./README.en.md)
+🇷🇺 **Русский** | [🇺🇸 **English**](./README.en.md)
 
 </div>
 
@@ -14,57 +14,52 @@
 архитектуре. Мне нравится создавать масштабируемые системы, способные обрабатывать миллионы запросов, поддерживая при
 этом доступность 99,95%.
 
-<table>
-<tr>
-<td width="60%">
+**Мой подход**: Применяю принципы Clean Architecture и DDD, ведь чистый код сегодня - это быстрая разработка завтра.
+Верю в силу автоматизации и считаю, что хорошая архитектура должна решать бизнес-задачи, а не создавать сложности.
 
-- 🔭 В настоящее время работаю в **Ufanet** в качестве Senior Backend Developer
-- 🌱 Руковожу архитектурной трансформацией от монолита к **событийно-ориентированной архитектуре**
-- 💼 Обрабатываю **10K+ транзакций в день** с доступностью 99,9%
-- 🔐 Управляю **50K+ IoT-устройствами** с безопасным управлением ключами
-- 📈 Достиг **95% снижения** инцидентов безопасности
+### 🎯 Текущий фокус:
 
-</td>
-<td width="40%">
-
-<img alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-</td>
-</tr>
-</table>
+- 🔭 **Senior Backend Developer** в Ufanet - возглавляю архитектурную трансформацию
+- 🌱 Мигрирую распределенный монолит на **Event-Driven Architecture**
+- 👥 Менторю команду из 3 junior-разработчиков
+- 📚 Изучаю **Kubernetes** и облачные технологии для следующего этапа роста
 
 ## 🛠️ Технологический стек
 
 <div align="center">
 
-### Языки
+### 💻 Языки
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Фреймворки и библиотеки
+### 🔧 Фреймворки и библиотеки
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Базы данных
+### 🗄️ Базы данных
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
 
-### Брокеры сообщений
+### 📨 Брокеры сообщений
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-FF6600?style=for-the-badge&logo=apache&logoColor=white)
 
-### DevOps и инфраструктура
+### 🚀 DevOps и инфраструктура
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60A8C9?style=for-the-badge&logo=jaeger&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
@@ -72,14 +67,21 @@
 
 <div align="center">
 
-| Метрика                          | Достижение                                       |
-|----------------------------------|--------------------------------------------------|
-| 🚀 **Доступность системы**       | 99,95% для критически важных сервисов            |
-| 📉 **Связанность сервисов**      | Снижение на 60% благодаря переходу на EDA        |
-| 💰 **Ежедневные транзакции**     | 10K+ с доступностью 99,9%                        |
-| 🔐 **IoT-устройства**            | Безопасное управление ключами для 50K+ устройств |
-| 🛡️ **Инциденты безопасности**   | Снижение на 95%                                  |
-| 💸 **Затраты на инфраструктуру** | Снижение на 25%                                  |
+### 🚀 Производительность и надежность
+
+**99,95%** Uptime критических сервисов • **2s → 100ms** Время ответа API • **500K+** Событий/день через Kafka
+
+### 🏗️ Архитектурные решения
+
+**60%** Снижение связанности сервисов • **35%** Ускорение разработки фич • **Zero-downtime** deployment
+
+### 💰 Бизнес-результаты
+
+**10K+** Транзакций/день • **50K+** IoT-устройств • **25%** Снижение затрат на инфраструктуру
+
+### 🛡️ Безопасность и качество
+
+**95%** Снижение инцидентов безопасности • **95%** Покрытие тестами • **30%** Снижение technical debt
 
 </div>
 
@@ -87,32 +89,20 @@
 
 ### 🏢 Ufanet - Senior Backend Developer
 
-<details>
-<summary>🚀 <strong>Архитектурная трансформация</strong></summary>
+- **🚀 Архитектурная трансформация**
+    - Руководил переходом от распределенного монолита к событийно-ориентированной архитектуре
+    - Внедрил паттерны Outbox и Saga для обеспечения распределенной согласованности
+    - Снизил связанность сервисов на 60% и повысил отказоустойчивость
 
-- Руководил переходом от распределенного монолита к событийно-ориентированной архитектуре
-- Внедрил паттерны Outbox и Saga для обеспечения распределенной согласованности
-- Снизил связанность сервисов на 60% и повысил отказоустойчивость
+- **💰 Интеграция с финтехом**
+    - Создал безопасные интеграции с платежными системами через API-шлюзы
+    - Реализовал обработку транзакций с гарантией exactly-once delivery
+    - Достиг доступности 99,9% при обработке 10K+ транзакций в день
 
-</details>
-
-<details>
-<summary>💰 <strong>Интеграция с финтехом</strong></summary>
-
-- Создал безопасные интеграции с платежными системами через API-шлюзы
-- Реализовал обработку транзакций с гарантией exactly-once delivery
-- Достиг доступности 99,9% при обработке 10K+ транзакций в день
-
-</details>
-
-<details>
-<summary>🔐 <strong>IoT и управление устройствами</strong></summary>
-
-- Разработал систему управления ключами для 50K+ IoT-устройств
-- Внедрил безопасный обмен ключами с ротацией и аудитом
-- Создал мониторинг устройств в реальном времени через MQTT
-
-</details>
+- **🔐 IoT и управление устройствами**
+    - Разработал систему управления ключами для 50K+ IoT-устройств
+    - Внедрил безопасный обмен ключами с ротацией и аудитом
+    - Создал мониторинг устройств в реальном времени через MQTT
 
 ### 🚀 Стартап Crypton - Python Developer
 
@@ -124,9 +114,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="125" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalaganov-Konstantin&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="125" alt="Top Languages" />
 
 </div>
 
